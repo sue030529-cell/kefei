@@ -141,7 +141,7 @@ const translations = {
     "gallery.film_director_tag": "✨ 独立全流程导演作品",
     "gallery.film_title": "《另一场绽放 (In Another Bloom)》",
     "gallery.film_sub": "原创 AI 电影级动漫概念短片 · 全流程编导作品",
-    "gallery.film_desc": "这部短片由陈可非独立编剧和制作，使用生成式 AI 完成画面，并尝试让角色、场景和音乐在不同镜头间保持连贯。",
+    "gallery.film_desc": "独立编剧和制作，使用生成式 AI 完成画面，并尝试让角色、场景和音乐在不同镜头间保持连贯。",
     "gallery.btn_yt_watch": "前往 YouTube 观看完整视频 ▶",
     "gallery.film_hd_pill": "高清 1080P · 原创音乐",
     "gallery.card_yt_jump": "前往 YouTube 观看 ↗",
